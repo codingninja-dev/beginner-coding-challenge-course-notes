@@ -11,7 +11,7 @@ This series is dedicated on teaching you everything you need to know on how to s
   </tr>
     <tr>
     <td>Lesson 3 : Coding Challenge 2 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/03.%20Convert%20Minutes%20into%20Seconds">Code</a> | Video</td>
-    <td></td>
+    <td>Lesson 4 : Coding Challenge 3 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/04.%20Return%20the%20Next%20Number%20from%20the%20Integer%20Passed">Code</a> | Vid
   </tr>
 </table>
 
