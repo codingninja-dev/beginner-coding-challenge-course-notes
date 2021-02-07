@@ -11,7 +11,14 @@ This series is dedicated on teaching you everything you need to know on how to s
   </tr>
   <tr>
     <td>Lesson 3 : Coding Challenge 2 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/03.%20Convert%20Minutes%20into%20Seconds">Code</a> | <a href="https://youtu.be/v91xpQN6r7c">Video</a></td>
-    <td>Lesson 4 : Coding Challenge 3 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/04.%20Return%20the%20Next%20Number%20from%20the%20Integer%20Passed">Code</a> | <a href="https://youtu.be/hTlcYf7kjpU">Video</a>
+    <td>Lesson 4 : Coding Challenge 3 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/04.%20Return%20the%20Next%20Number%20from%20the%20Integer%20Passed">Code</a> | <a href="https://youtu.be/hTlcYf7kjpU">Video</a></td>
+  </tr>
+  <tr>
+    <td>Lesson 5 : Coding Challenge 4 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/05.%20Area%20of%20a%20Triangle">Code</a> | <a href="https://youtu.be/IQ6i5iXAh2A">Video</a></td>
+    <td>Lesson 6 : Coding Challenge 5 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/06.%20Convert%20Age%20to%20Days">Code</a> | <a href="https://youtu.be/eONBKcy7Vfg">Video</a></td>
+  </tr>
+  <tr>
+    <td>Lesson 7 : Coding Challenge 6 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/07.%20Return%20the%20First%20Element%20in%20an%20Array">Code</a> | <a href="https://youtu.be/ClniQHvNLsE">Video</a></td>
   </tr>
 </table>
 
