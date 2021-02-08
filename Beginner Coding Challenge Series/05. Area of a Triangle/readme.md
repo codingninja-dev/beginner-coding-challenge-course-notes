@@ -1,0 +1,17 @@
+<h1 align='center'>~ Area of a Triangle ~</h1>
+
+<p>Write a function that takes the base and height of a triangle and return its area.</p>
+
+<h3>Examples</h3>
+
+```
+triArea(3, 2) ➞ 3
+triArea(7, 4) ➞ 14
+triArea(10, 10) ➞ 50
+```
+
+<h3>Notes</h3>
+<ul>
+  <li>The area of a triangle is: (base * height) / 2</li>
+  <li>Find Challenge <a href="https://edabit.com/challenge/3CaszbdZYGN4otQD8">here</a>.</li>
+</ul>
