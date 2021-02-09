@@ -25,6 +25,13 @@ This series is dedicated on teaching you everything you need to know on how to s
     <td>Lesson 9 : Coding Challenge 8 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/09.%20Convert%20Hours%20into%20Seconds">Code</a> | <a href="https://youtu.be/6Jh1fRVNB0Y">Video</a></td>
     <td>Lesson 10 : Coding Challenge 9 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/10.%20Return%20the%20Remainder%20from%20Two%20Numbers">Code</a> | <a href="https://youtu.be/np8IZzxNEvg">Video</a></td>
   </tr>
+  <tr>
+    <td>Lesson 11 : Coding Challenge 10 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/11.%20Find%20the%20Perimeter%20of%20a%20Rectangle">Code</a> | <a href="https://youtu.be/k5-DI6Y5w8w">Video</a></td>
+    <td>Lesson 12 : Coding Challenge 11 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/12.%20Return%20Something%20to%20Me!">Code</a> | <a href="https://youtu.be/xAPnbSai-pg">Video</a></td>
+  </tr>
+  <tr>
+    <td>Lesson 13 : Coding Challenge 12 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/13.%20Correct%20the%20Mistakes">Code</a> | <a href="https://youtu.be/k9fT2LN3y0M">Video</a></td>
+  </tr>
 </table>
 
 ## Extra Learning Material
