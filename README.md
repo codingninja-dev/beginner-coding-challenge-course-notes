@@ -19,6 +19,11 @@ This series is dedicated on teaching you everything you need to know on how to s
   </tr>
   <tr>
     <td>Lesson 7 : Coding Challenge 6 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/07.%20Return%20the%20First%20Element%20in%20an%20Array">Code</a> | <a href="https://youtu.be/ClniQHvNLsE">Video</a></td>
+    <td>Lesson 8 : Coding Challenge 7 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/08.%20Power%20Calculator">Code</a> | <a href="https://youtu.be/n207TYpyIXQ">Video</a></td>
+  </tr>
+  <tr>
+    <td>Lesson 9 : Coding Challenge 8 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/09.%20Convert%20Hours%20into%20Seconds">Code</a> | <a href="https://youtu.be/6Jh1fRVNB0Y">Video</a></td>
+    <td>Lesson 10 : Coding Challenge 9 <a href="https://github.com/codingninja-dev/beginner-coding-challenge-course-notes/tree/master/Beginner%20Coding%20Challenge%20Series/10.%20Return%20the%20Remainder%20from%20Two%20Numbers">Code</a> | <a href="https://youtu.be/np8IZzxNEvg">Video</a></td>
   </tr>
 </table>
 
